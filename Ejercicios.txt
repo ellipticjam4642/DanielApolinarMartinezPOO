@@ -1,0 +1,21 @@
+git init 
+git remote add origin https://github.com/ellipticjam4642/DanielApolinarMartinez
+
+git fetch origin master
+
+ls
+---------------------------------------------------------------------------
+
+
+
+git status
+
+git add NOMBREDOCUMENTO
+
+git config --global user.name ellipticjam4642
+
+git config --global user.email dany_98_d@outlook.com
+
+git commit -m "NOMBRECLASE"
+
+git push origin master
